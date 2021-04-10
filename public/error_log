@@ -1,0 +1,56 @@
+[07-Nov-2020 19:13:45 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:13:45 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:13:45 Australia/Sydney] PHP Fatal error:  require(): Failed opening required '/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:14:54 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:14:54 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:14:54 Australia/Sydney] PHP Fatal error:  require(): Failed opening required '/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:16:35 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:16:35 Australia/Sydney] PHP Warning:  require(/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 19:16:35 Australia/Sydney] PHP Fatal error:  require(): Failed opening required '/home/ethansol/rooted.ethansolution.com/public/../vendor/autoload.php' (include_path='.:/opt/alt/php71/usr/share/pear') in /home/ethansol/rooted.ethansolution.com/public/index.php on line 24
+[07-Nov-2020 11:36:10 UTC] PHP Fatal error:  Interface 'Tymon\JWTAuth\Contracts\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 11
+[07-Nov-2020 11:36:26 UTC] PHP Fatal error:  Interface 'App\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 10
+[07-Nov-2020 11:36:30 UTC] PHP Fatal error:  Interface 'App\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 10
+[07-Nov-2020 11:36:37 UTC] PHP Fatal error:  Interface 'App\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 10
+[07-Nov-2020 12:19:37 UTC] PHP Fatal error:  Interface 'Tymon\JWTAuth\Contracts\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 11
+[07-Nov-2020 12:19:45 UTC] PHP Fatal error:  Interface 'Tymon\JWTAuth\Contracts\JWTSubject' not found in /home/ethansol/rooted.ethansolution.com/app/User.php on line 11
+[07-Nov-2020 18:03:53 UTC] PHP Fatal error:  Cannot use Storage as Storage because the name is already in use in /home/ethansol/rooted.ethansolution.com/app/Http/Controllers/Api/UsersController.php on line 11
+[11-Dec-2020 13:50:28 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/ethansol/dating.ethansolutio in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[11-Dec-2020 14:01:22 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/ethansol/dating.ethansolutio in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[11-Dec-2020 14:42:37 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/ethansol/dating.ethansolutio in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[11-Dec-2020 14:42:52 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/ethansol/dating.ethansolutio in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
+[11-Dec-2020 15:06:28 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php:788
+Stack trace:
+#0 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(788): ReflectionClass->__construct('view')
+#1 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(667): Illuminate\Container\Container->build('view')
+#2 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(615): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(767): Illuminate\Container\Container->make('view', Array)
+#4 /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php(1227): Illuminate\Foundation\Application->make('view')
+#5 /home/ethansol/dating.ethansolutio in /home/ethansol/dating.ethansolution.com/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 788
