@@ -15,9 +15,9 @@ class Db {
 		this.connection = mysql.createPool({
 			connectionLimit: 1000,
 			host: 'localhost',
-			user: 'hinotesuser',
-			password: 'hinotesuser!@#789',
-			database: 'hinotes',
+			user: '',
+			password: '',
+			database: '',
 			debug: false
 		});
 	}
